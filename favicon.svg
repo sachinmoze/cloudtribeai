@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <!-- Background gradient -->
+    <defs>
+        <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Background circle -->
+    <circle cx="256" cy="256" r="256" fill="url(#brandGradient)" />
+    
+    <!-- Cloud Shape -->
+    <path d="M400 220.75C400 168.45 357.55 126 305.25 126C280.75 126 258.3 136.35 241.5 152.55C224.7 136.35 202.25 126 177.75 126C125.45 126 83 168.45 83 220.75C83 273.05 125.45 315.5 177.75 315.5H305.25C357.55 315.5 400 273.05 400 220.75Z" 
+          fill="white" 
+          opacity="0.9" />
+    
+    <!-- AI Circuit Lines -->
+    <path d="M180 240C180 247.18 174.18 253 167 253H127C119.82 253 114 247.18 114 240V220C114 212.82 119.82 207 127 207H167C174.18 207 180 212.82 180 220V240Z" 
+          fill="white" 
+          opacity="0.7" />
+    
+    <path d="M398 240C398 247.18 392.18 253 385 253H345C337.82 253 332 247.18 332 240V220C332 212.82 337.82 207 345 207H385C392.18 207 398 212.82 398 220V240Z" 
+          fill="white" 
+          opacity="0.7" />
+    
+    <path d="M256 180C256 187.18 250.18 193 243 193H203C195.82 193 190 187.18 190 180V160C190 152.82 195.82 147 203 147H243C250.18 147 256 152.82 256 160V180Z" 
+          fill="white" 
+          opacity="0.7" />
+</svg>
